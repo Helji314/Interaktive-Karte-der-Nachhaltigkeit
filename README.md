@@ -29,12 +29,12 @@ Somit ist für jede der drei Dimensionen der Nachhaltigkeit ein aktueller, damit
 <br>Jeder dieser Werte wird auf einer Skala von 1 (nidriege Ausprägung) bis 100 (stark ausgeprägt) eingeordnet. Alle drei Dimensionen (Ökologisches, Ökonimisches, Soziales) werden gleich stark gewichtet. <br>
 Der gesammte Nachhaltigkeitsindex setzt sich folgendermaßen zusammen:<br>
 Nachhaltigkeitsindex = (Sozialer Wert + Ökologischer Wert + Ökonomischer Wert) / 3 <br><br><br>
-# technische Umetzung
+<h2>Technische Umsetung</h2>
 - Daten: Automatisierte Abfrage mithilfe einer Datenbank <br>
 - Visualisierung: Erstellung der Karte mithilfe von Datawrapper, diese als Farben dargestellten Klassifizierungen lassen sich nicht live updaten. <br>
 - Interaktiv-Machen: Arbeit mit dem Image Map Generator<br>
 - Hostig: Mithilfe von GitHub Pages<br><br><br>
-# Nächste Schritte
+<h2>Nächste Schritte</h2>
 - Datenquellen Sammeln, Daten vergleichbar machen<br>
 - Skript zur Verarbeitung und Berechnung der Werte<br>
 - Visualisieren und Interaktivieren der Karte<br>
