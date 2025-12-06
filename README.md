@@ -28,8 +28,7 @@ Das BIP pro Kopf zeigt die wirtschaftliche Leistungsfähigkeit, wärend die Staa
 Somit ist für jede der drei Dimensionen der Nachhaltigkeit ein aktueller, damit sicherer Wert und einen, der weiter in die Zukunft blickt und damit für die Bestimmung der Nachhaltigkeit insbesondere relevant ist, bestimmt. <br><br>
 <br>Jeder dieser Werte wird auf einer Skala von 1 (nidriege Ausprägung) bis 100 (stark ausgeprägt) eingeordnet. Alle drei Dimensionen (Ökologisches, Ökonimisches, Soziales) werden gleich stark gewichtet. <br>
 Der gesammte -Nachhaltigkeitsindex- setzt sich folgendermaßen zusammen:<br>
-Nachhaltigkeitsindex = (Sozialer Wert + Ökologischer Wert + Ökonomischer Wert) / 3 <br><br><br>
-# Technische Umsetzung
+# technische Umetzung
 - Daten: Automatisierte Abfrage mithilfe einer Datenbank <br>
 - Visualisierung: Erstellung der Karte mithilfe von Datawrapper, diese als Farben dargestellten Klassifizierungen lassen sich nicht live updaten. <br>
 - Interaktiv-Machen: Arbeit mit dem Image Map Generator<br>
