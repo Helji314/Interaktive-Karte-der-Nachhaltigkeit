@@ -21,10 +21,10 @@ Die Lebenserwartung bei der Geburt stellt vergleichbare Werte zur allgemeinen Ge
 CO_2 stellt einen der Treiber der globalen Erderwärmung da und weitere Emissionen in besonderem Maße die Sicherheit der eigenen Bevölkerung, da sie oft auf nicht-sachgemäße Müllentsorgung zurückzuführen ist, die statistisch kaum erfasst wird. <br><br>
 3. Ökonimisches
 <h3>Indikator</h3>
-- BIP pro Kopf (natürlich kaufbereinigt) <br>
-- Staatsverschuldung in % des BIP <br>
+- BIP pro Kopf<br>
+- Arbeitslosigkeit in % <br>
 <h4>Begründung</h4>
-Das BIP pro Kopf zeigt die wirtschaftliche Leistungsfähigkeit, wärend die Staatsverschuldung auf zukünsftige Sicht (und damit in besonderem Interesse für diese Statistik) Stabilität inkludiert. <br><br>
+Das BIP pro Kopf zeigt die wirtschaftliche Leistungsfähigkeit, wärend die Arbeitslosigkeit Effizienz und Zukunftsfähigekit (und damit Indikatoren der Nachhaltigkeit) transferiert. <br><br>
 Somit ist für jede der drei Dimensionen der Nachhaltigkeit ein aktueller, damit sicherer Wert und einen, der weiter in die Zukunft blickt und damit für die Bestimmung der Nachhaltigkeit insbesondere relevant ist, bestimmt. <br><br>
 <br>Jeder dieser Werte wird auf einer Skala von 1 (nidriege Ausprägung) bis 100 (stark ausgeprägt) eingeordnet. Alle drei Dimensionen (Ökologisches, Ökonimisches, Soziales) werden gleich stark gewichtet. <br>
 Der gesammte Nachhaltigkeitsindex setzt sich folgendermaßen zusammen:<br>
