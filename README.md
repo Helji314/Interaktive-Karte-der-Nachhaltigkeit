@@ -5,7 +5,7 @@ Dies wird eine interaktive Karte der Welt, an der man die Nachhaltigkeit gezeigt
 Ein Projekt zur Visualisierung der globalen Nachhaltigkeitsleistungen anhand ausgewählter SDG-Indikatoren. 
 <br>
 Diese interaktive Weltkarte zeigt die Nachhaltigkeitsleistung von Ländern in den drei Dimensionen Soziales, Ökonomisches und Ökologisches. Die Auswahl der Indikatoren orientiert sich an den SDGs (Sustainable Development Goals), die die Vereinten Nationen in ihrer Agenda 2030 festgelegt haben. <br>
-Ausgewählt werden die jeweiligen SDGs mit ihrer Dimension nach Relevanz, kombiniert mit Dringlichkeit. 
+Ausgewählt werden die jeweiligen Werte in ihren Dimensionen nach Dringlichkeit, in Kombination zu ihrer Relevanz im Sinne von Maslows darstellung der Bedürfnisse. 
 # Berechnung und Datenquellen
 1. Soziales <br>
 <h3>Indikator</h3>
