@@ -1,0 +1,950 @@
+[
+  {
+    "DW_NAME": "Hong Kong",
+    "VALUE": 97.32629480948036
+  },
+  {
+    "DW_NAME": "Saint Barthelemy",
+    "VALUE": 93.53973506820724
+  },
+  {
+    "DW_NAME": "French Polynesia",
+    "VALUE": 92.85626181052396
+  },
+  {
+    "DW_NAME": "Liechtenstein",
+    "VALUE": 91.49117677475158
+  },
+  {
+    "DW_NAME": "Gibraltar",
+    "VALUE": 91.25290738668949
+  },
+  {
+    "DW_NAME": "Reunion",
+    "VALUE": 91.23491308394524
+  },
+  {
+    "DW_NAME": "Guernsey",
+    "VALUE": 90.38856036176634
+  },
+  {
+    "DW_NAME": "Macao",
+    "VALUE": 89.76961839668319
+  },
+  {
+    "DW_NAME": "Vatican",
+    "VALUE": 89.49008621094892
+  },
+  {
+    "DW_NAME": "Martinique",
+    "VALUE": 88.18798123478146
+  },
+  {
+    "DW_NAME": "Bermuda",
+    "VALUE": 87.39312944804308
+  },
+  {
+    "DW_NAME": "Guadeloupe",
+    "VALUE": 86.59083174292776
+  },
+  {
+    "DW_NAME": "Puerto Rico",
+    "VALUE": 85.47363373978773
+  },
+  {
+    "DW_NAME": "Isle of Man",
+    "VALUE": 83.32920924722892
+  },
+  {
+    "DW_NAME": "Taiwan",
+    "VALUE": 81.9635037182585
+  },
+  {
+    "DW_NAME": "Cayman Islands",
+    "VALUE": 81.33928756099168
+  },
+  {
+    "DW_NAME": "Saint Martin (French part)",
+    "VALUE": 80.92417761147723
+  },
+  {
+    "DW_NAME": "Faroe Islands",
+    "VALUE": 80.78580762830576
+  },
+  {
+    "DW_NAME": "Jersey",
+    "VALUE": 79.32113343424182
+  },
+  {
+    "DW_NAME": "Anguilla",
+    "VALUE": 78.09379788844284
+  },
+  {
+    "DW_NAME": "Falkland Islands",
+    "VALUE": 77.78882548158734
+  },
+  {
+    "DW_NAME": "Northern Mariana Islands",
+    "VALUE": 76.53015502928542
+  },
+  {
+    "DW_NAME": "New Caledonia",
+    "VALUE": 76.40078219748607
+  },
+  {
+    "DW_NAME": "Wallis and Futuna",
+    "VALUE": 75.97512386360434
+  },
+  {
+    "DW_NAME": "Kosovo",
+    "VALUE": 74.12605413333084
+  },
+  {
+    "DW_NAME": "Turks and Caicos Islands",
+    "VALUE": 74.04880273017008
+  },
+  {
+    "DW_NAME": "United States",
+    "VALUE": 73.69496993372066
+  },
+  {
+    "DW_NAME": "Bonaire Sint Eustatius and Saba",
+    "VALUE": 72.27357169046792
+  },
+  {
+    "DW_NAME": "British Virgin Islands",
+    "VALUE": 71.77810787180236
+  },
+  {
+    "DW_NAME": "Guam",
+    "VALUE": 71.57179388344129
+  },
+  {
+    "DW_NAME": "Tokelau",
+    "VALUE": 71.08129401036034
+  },
+  {
+    "DW_NAME": "French Guiana",
+    "VALUE": 70.85450374646271
+  },
+  {
+    "DW_NAME": "Curacao",
+    "VALUE": 70.3007135671778
+  },
+  {
+    "DW_NAME": "Japan",
+    "VALUE": 70.27529026541069
+  },
+  {
+    "DW_NAME": "Saint Helena",
+    "VALUE": 70.26131224909983
+  },
+  {
+    "DW_NAME": "Saint Pierre and Miquelon",
+    "VALUE": 70.17103048877942
+  },
+  {
+    "DW_NAME": "Switzerland",
+    "VALUE": 69.76089120072425
+  },
+  {
+    "DW_NAME": "France",
+    "VALUE": 69.1943669317253
+  },
+  {
+    "DW_NAME": "Sint Maarten (Dutch part)",
+    "VALUE": 68.97099664369587
+  },
+  {
+    "DW_NAME": "Aruba",
+    "VALUE": 68.91515225586882
+  },
+  {
+    "DW_NAME": "Afghanistan",
+    "VALUE": 68.45133359030527
+  },
+  {
+    "DW_NAME": "Montserrat",
+    "VALUE": 68.39610969567629
+  },
+  {
+    "DW_NAME": "Mayotte",
+    "VALUE": 67.98875591113786
+  },
+  {
+    "DW_NAME": "Germany",
+    "VALUE": 67.85626313805719
+  },
+  {
+    "DW_NAME": "Canada",
+    "VALUE": 66.6091008068067
+  },
+  {
+    "DW_NAME": "United States Virgin Islands",
+    "VALUE": 66.18312070472983
+  },
+  {
+    "DW_NAME": "Sweden",
+    "VALUE": 65.87755330571744
+  },
+  {
+    "DW_NAME": "Australia",
+    "VALUE": 65.57156900052627
+  },
+  {
+    "DW_NAME": "Austria",
+    "VALUE": 65.38381938872695
+  },
+  {
+    "DW_NAME": "South Korea",
+    "VALUE": 65.05468092132666
+  },
+  {
+    "DW_NAME": "Spain",
+    "VALUE": 64.7410020886791
+  },
+  {
+    "DW_NAME": "Belgium",
+    "VALUE": 64.71052821436268
+  },
+  {
+    "DW_NAME": "Portugal",
+    "VALUE": 64.40835555636772
+  },
+  {
+    "DW_NAME": "United Kingdom",
+    "VALUE": 64.12105858816231
+  },
+  {
+    "DW_NAME": "Malta",
+    "VALUE": 63.66565011193994
+  },
+  {
+    "DW_NAME": "Niue",
+    "VALUE": 63.39774996567486
+  },
+  {
+    "DW_NAME": "Netherlands",
+    "VALUE": 63.23779428580018
+  },
+  {
+    "DW_NAME": "Italy",
+    "VALUE": 63.15737026169271
+  },
+  {
+    "DW_NAME": "New Zealand",
+    "VALUE": 62.9620396689825
+  },
+  {
+    "DW_NAME": "San Marino",
+    "VALUE": 62.47269067545864
+  },
+  {
+    "DW_NAME": "Iceland",
+    "VALUE": 62.1693403730809
+  },
+  {
+    "DW_NAME": "Finland",
+    "VALUE": 61.82596958337797
+  },
+  {
+    "DW_NAME": "Chile",
+    "VALUE": 61.61003432398526
+  },
+  {
+    "DW_NAME": "Denmark",
+    "VALUE": 61.43501610659444
+  },
+  {
+    "DW_NAME": "Slovenia",
+    "VALUE": 61.22475658462726
+  },
+  {
+    "DW_NAME": "Cuba",
+    "VALUE": 60.84497243815163
+  },
+  {
+    "DW_NAME": "North Korea",
+    "VALUE": 60.50374646271871
+  },
+  {
+    "DW_NAME": "Maldives",
+    "VALUE": 60.46361275673627
+  },
+  {
+    "DW_NAME": "Andorra",
+    "VALUE": 60.192163694886
+  },
+  {
+    "DW_NAME": "Norway",
+    "VALUE": 60.012444653326455
+  },
+  {
+    "DW_NAME": "Cyprus",
+    "VALUE": 59.5847066220582
+  },
+  {
+    "DW_NAME": "Tuvalu",
+    "VALUE": 59.15980356779974
+  },
+  {
+    "DW_NAME": "Greece",
+    "VALUE": 59.04576005610804
+  },
+  {
+    "DW_NAME": "American Samoa",
+    "VALUE": 58.05279833030921
+  },
+  {
+    "DW_NAME": "Montenegro",
+    "VALUE": 57.28428402750819
+  },
+  {
+    "DW_NAME": "Israel",
+    "VALUE": 57.20542736206504
+  },
+  {
+    "DW_NAME": "Czechia",
+    "VALUE": 56.60439296234714
+  },
+  {
+    "DW_NAME": "Panama",
+    "VALUE": 55.45550570994999
+  },
+  {
+    "DW_NAME": "Argentina",
+    "VALUE": 55.296421762168215
+  },
+  {
+    "DW_NAME": "Ireland",
+    "VALUE": 54.367918580954
+  },
+  {
+    "DW_NAME": "Costa Rica",
+    "VALUE": 54.342716202640574
+  },
+  {
+    "DW_NAME": "Uruguay",
+    "VALUE": 54.31451713379968
+  },
+  {
+    "DW_NAME": "Monaco",
+    "VALUE": 54.17720442735452
+  },
+  {
+    "DW_NAME": "Serbia",
+    "VALUE": 53.84776839831271
+  },
+  {
+    "DW_NAME": "Singapore",
+    "VALUE": 53.5768038272192
+  },
+  {
+    "DW_NAME": "Western Sahara",
+    "VALUE": 53.5021012156026
+  },
+  {
+    "DW_NAME": "Bosnia and Herzegovina",
+    "VALUE": 53.33498800723783
+  },
+  {
+    "DW_NAME": "Palau",
+    "VALUE": 52.98349080124498
+  },
+  {
+    "DW_NAME": "Armenia",
+    "VALUE": 52.871286662726845
+  },
+  {
+    "DW_NAME": "Luxembourg",
+    "VALUE": 52.7625838364161
+  },
+  {
+    "DW_NAME": "Slovakia",
+    "VALUE": 51.80249809199771
+  },
+  {
+    "DW_NAME": "United Arab Emirates",
+    "VALUE": 51.7782647997778
+  },
+  {
+    "DW_NAME": "Estonia",
+    "VALUE": 51.33170259594295
+  },
+  {
+    "DW_NAME": "Brazil",
+    "VALUE": 51.22122749241312
+  },
+  {
+    "DW_NAME": "Croatia",
+    "VALUE": 50.974154061576826
+  },
+  {
+    "DW_NAME": "Nauru",
+    "VALUE": 50.91774826614397
+  },
+  {
+    "DW_NAME": "East Timor",
+    "VALUE": 50.62389943562201
+  },
+  {
+    "DW_NAME": "Colombia",
+    "VALUE": 50.4802624166319
+  },
+  {
+    "DW_NAME": "Albania",
+    "VALUE": 50.181063418516096
+  },
+  {
+    "DW_NAME": "North Macedonia",
+    "VALUE": 50.07742210583684
+  },
+  {
+    "DW_NAME": "Ecuador",
+    "VALUE": 49.87409018364804
+  },
+  {
+    "DW_NAME": "Nicaragua",
+    "VALUE": 49.38283209103484
+  },
+  {
+    "DW_NAME": "Greenland",
+    "VALUE": 49.37582144838157
+  },
+  {
+    "DW_NAME": "Poland",
+    "VALUE": 49.14935630463615
+  },
+  {
+    "DW_NAME": "Jordan",
+    "VALUE": 48.885024092714
+  },
+  {
+    "DW_NAME": "Latvia",
+    "VALUE": 48.21129697306607
+  },
+  {
+    "DW_NAME": "Bulgaria",
+    "VALUE": 47.45019784219117
+  },
+  {
+    "DW_NAME": "Hungary",
+    "VALUE": 47.33674092606277
+  },
+  {
+    "DW_NAME": "Bahrain",
+    "VALUE": 47.30627417339727
+  },
+  {
+    "DW_NAME": "Tunisia",
+    "VALUE": 47.17343677198088
+  },
+  {
+    "DW_NAME": "Lithuania",
+    "VALUE": 47.07521637133593
+  },
+  {
+    "DW_NAME": "Peru",
+    "VALUE": 47.05888801630713
+  },
+  {
+    "DW_NAME": "El Salvador",
+    "VALUE": 47.03024307524939
+  },
+  {
+    "DW_NAME": "Kuwait",
+    "VALUE": 46.94678137283408
+  },
+  {
+    "DW_NAME": "Lebanon",
+    "VALUE": 46.34484230634142
+  },
+  {
+    "DW_NAME": "Antigua and Barbuda",
+    "VALUE": 45.99284267638042
+  },
+  {
+    "DW_NAME": "Cape Verde",
+    "VALUE": 45.80345078790244
+  },
+  {
+    "DW_NAME": "China",
+    "VALUE": 45.70505175781333
+  },
+  {
+    "DW_NAME": "Ukraine",
+    "VALUE": 45.2708173148996
+  },
+  {
+    "DW_NAME": "Iran",
+    "VALUE": 45.19422417480344
+  },
+  {
+    "DW_NAME": "Saudi Arabia",
+    "VALUE": 45.18033500811072
+  },
+  {
+    "DW_NAME": "Qatar",
+    "VALUE": 45.13402846921021
+  },
+  {
+    "DW_NAME": "Barbados",
+    "VALUE": 45.10331250084286
+  },
+  {
+    "DW_NAME": "Paraguay",
+    "VALUE": 44.84366923122474
+  },
+  {
+    "DW_NAME": "Georgia",
+    "VALUE": 44.732897260846805
+  },
+  {
+    "DW_NAME": "Bahamas",
+    "VALUE": 44.728432877136456
+  },
+  {
+    "DW_NAME": "Honduras",
+    "VALUE": 44.620449360686
+  },
+  {
+    "DW_NAME": "Tonga",
+    "VALUE": 44.29692426098569
+  },
+  {
+    "DW_NAME": "Mongolia",
+    "VALUE": 44.16193108737056
+  },
+  {
+    "DW_NAME": "Romania",
+    "VALUE": 43.46283425292909
+  },
+  {
+    "DW_NAME": "Marshall Islands",
+    "VALUE": 43.44588489441886
+  },
+  {
+    "DW_NAME": "Thailand",
+    "VALUE": 43.27958567853016
+  },
+  {
+    "DW_NAME": "Belarus",
+    "VALUE": 43.24763446633242
+  },
+  {
+    "DW_NAME": "Oman",
+    "VALUE": 43.21872241282589
+  },
+  {
+    "DW_NAME": "Sri Lanka",
+    "VALUE": 42.63284782987262
+  },
+  {
+    "DW_NAME": "Cook Islands",
+    "VALUE": 42.43116937807031
+  },
+  {
+    "DW_NAME": "Morocco",
+    "VALUE": 42.33339072150298
+  },
+  {
+    "DW_NAME": "Guatemala",
+    "VALUE": 42.22575264807672
+  },
+  {
+    "DW_NAME": "Mauritius",
+    "VALUE": 42.06739213355405
+  },
+  {
+    "DW_NAME": "Mexico",
+    "VALUE": 42.05052091148254
+  },
+  {
+    "DW_NAME": "Russia",
+    "VALUE": 41.86896604495816
+  },
+  {
+    "DW_NAME": "Uzbekistan",
+    "VALUE": 41.71302988350602
+  },
+  {
+    "DW_NAME": "Tajikistan",
+    "VALUE": 41.403767651129606
+  },
+  {
+    "DW_NAME": "Jamaica",
+    "VALUE": 41.265188793011646
+  },
+  {
+    "DW_NAME": "Trinidad and Tobago",
+    "VALUE": 41.251885080837006
+  },
+  {
+    "DW_NAME": "Micronesia (country)",
+    "VALUE": 40.60031003399678
+  },
+  {
+    "DW_NAME": "Turkey",
+    "VALUE": 40.591114496892985
+  },
+  {
+    "DW_NAME": "Grenada",
+    "VALUE": 40.46292138656385
+  },
+  {
+    "DW_NAME": "Malaysia",
+    "VALUE": 40.2889910255618
+  },
+  {
+    "DW_NAME": "Suriname",
+    "VALUE": 40.27634510540412
+  },
+  {
+    "DW_NAME": "Liberia",
+    "VALUE": 40.07069139542432
+  },
+  {
+    "DW_NAME": "Kiribati",
+    "VALUE": 39.833390636118736
+  },
+  {
+    "DW_NAME": "Algeria",
+    "VALUE": 39.01623840116355
+  },
+  {
+    "DW_NAME": "Moldova",
+    "VALUE": 38.94053951367111
+  },
+  {
+    "DW_NAME": "Vietnam",
+    "VALUE": 38.66925583118159
+  },
+  {
+    "DW_NAME": "Namibia",
+    "VALUE": 38.44995186747522
+  },
+  {
+    "DW_NAME": "Bolivia",
+    "VALUE": 38.29332000061555
+  },
+  {
+    "DW_NAME": "Samoa",
+    "VALUE": 38.17082355086153
+  },
+  {
+    "DW_NAME": "Sao Tome and Principe",
+    "VALUE": 37.80585513190511
+  },
+  {
+    "DW_NAME": "Dominica",
+    "VALUE": 37.33632037860694
+  },
+  {
+    "DW_NAME": "Dominican Republic",
+    "VALUE": 37.28437960741879
+  },
+  {
+    "DW_NAME": "Saint Kitts and Nevis",
+    "VALUE": 37.1571929038807
+  },
+  {
+    "DW_NAME": "Azerbaijan",
+    "VALUE": 37.0007646915725
+  },
+  {
+    "DW_NAME": "Nepal",
+    "VALUE": 36.91059067382568
+  },
+  {
+    "DW_NAME": "Saint Lucia",
+    "VALUE": 36.73685128373026
+  },
+  {
+    "DW_NAME": "Kazakhstan",
+    "VALUE": 36.405465270794345
+  },
+  {
+    "DW_NAME": "Belize",
+    "VALUE": 36.251592042421386
+  },
+  {
+    "DW_NAME": "Palestine",
+    "VALUE": 36.03171874016651
+  },
+  {
+    "DW_NAME": "Rwanda",
+    "VALUE": 35.773119672220595
+  },
+  {
+    "DW_NAME": "Bhutan",
+    "VALUE": 35.69363144377772
+  },
+  {
+    "DW_NAME": "Comoros",
+    "VALUE": 35.37518629157704
+  },
+  {
+    "DW_NAME": "Venezuela",
+    "VALUE": 35.36236387288415
+  },
+  {
+    "DW_NAME": "South Africa",
+    "VALUE": 35.294057010566746
+  },
+  {
+    "DW_NAME": "Seychelles",
+    "VALUE": 35.173595537043646
+  },
+  {
+    "DW_NAME": "Kyrgyzstan",
+    "VALUE": 34.92965730122018
+  },
+  {
+    "DW_NAME": "Iraq",
+    "VALUE": 34.46919839699353
+  },
+  {
+    "DW_NAME": "Egypt",
+    "VALUE": 34.35436737432279
+  },
+  {
+    "DW_NAME": "Yemen",
+    "VALUE": 34.176656860460994
+  },
+  {
+    "DW_NAME": "Syria",
+    "VALUE": 33.8213659458071
+  },
+  {
+    "DW_NAME": "Saint Vincent and the Grenadines",
+    "VALUE": 33.689736281344004
+  },
+  {
+    "DW_NAME": "Bangladesh",
+    "VALUE": 33.683211119311146
+  },
+  {
+    "DW_NAME": "Turkmenistan",
+    "VALUE": 33.48463261920316
+  },
+  {
+    "DW_NAME": "Brunei",
+    "VALUE": 33.365390581665366
+  },
+  {
+    "DW_NAME": "Solomon Islands",
+    "VALUE": 32.916668321716486
+  },
+  {
+    "DW_NAME": "Botswana",
+    "VALUE": 32.90524450987702
+  },
+  {
+    "DW_NAME": "Cambodia",
+    "VALUE": 32.87104943519791
+  },
+  {
+    "DW_NAME": "Vanuatu",
+    "VALUE": 32.81532816583175
+  },
+  {
+    "DW_NAME": "Philippines",
+    "VALUE": 32.6136711783113
+  },
+  {
+    "DW_NAME": "Malawi",
+    "VALUE": 31.894357769311743
+  },
+  {
+    "DW_NAME": "India",
+    "VALUE": 31.672383266298645
+  },
+  {
+    "DW_NAME": "Mozambique",
+    "VALUE": 31.38784492090023
+  },
+  {
+    "DW_NAME": "Lesotho",
+    "VALUE": 30.7297265962018
+  },
+  {
+    "DW_NAME": "Libya",
+    "VALUE": 30.6684963871646
+  },
+  {
+    "DW_NAME": "Guinea-Bissau",
+    "VALUE": 30.57851054379364
+  },
+  {
+    "DW_NAME": "Burundi",
+    "VALUE": 30.561032489051183
+  },
+  {
+    "DW_NAME": "Mauritania",
+    "VALUE": 28.95504460018085
+  },
+  {
+    "DW_NAME": "Indonesia",
+    "VALUE": 28.91906790412415
+  },
+  {
+    "DW_NAME": "Eswatini",
+    "VALUE": 28.56382679026811
+  },
+  {
+    "DW_NAME": "Uganda",
+    "VALUE": 28.37979452877011
+  },
+  {
+    "DW_NAME": "Senegal",
+    "VALUE": 28.286050154931058
+  },
+  {
+    "DW_NAME": "Myanmar",
+    "VALUE": 28.15901066606605
+  },
+  {
+    "DW_NAME": "Guyana",
+    "VALUE": 28.14840621988365
+  },
+  {
+    "DW_NAME": "Eritrea",
+    "VALUE": 27.754459972062357
+  },
+  {
+    "DW_NAME": "Zambia",
+    "VALUE": 27.43993738480901
+  },
+  {
+    "DW_NAME": "Sierra Leone",
+    "VALUE": 26.62562127512881
+  },
+  {
+    "DW_NAME": "Fiji",
+    "VALUE": 26.038420300665155
+  },
+  {
+    "DW_NAME": "Sudan",
+    "VALUE": 25.929655764562284
+  },
+  {
+    "DW_NAME": "Gabon",
+    "VALUE": 24.938585793615022
+  },
+  {
+    "DW_NAME": "Central African Republic",
+    "VALUE": 24.506120414017616
+  },
+  {
+    "DW_NAME": "Pakistan",
+    "VALUE": 23.984484329019185
+  },
+  {
+    "DW_NAME": "Laos",
+    "VALUE": 23.96181020766539
+  },
+  {
+    "DW_NAME": "Togo",
+    "VALUE": 23.667790427110248
+  },
+  {
+    "DW_NAME": "Tanzania",
+    "VALUE": 23.453609904374336
+  },
+  {
+    "DW_NAME": "Ethiopia",
+    "VALUE": 23.346313920410694
+  },
+  {
+    "DW_NAME": "Burkina Faso",
+    "VALUE": 22.81332460844485
+  },
+  {
+    "DW_NAME": "Gambia",
+    "VALUE": 22.733460462114092
+  },
+  {
+    "DW_NAME": "Ghana",
+    "VALUE": 22.49777199915425
+  },
+  {
+    "DW_NAME": "Cameroon",
+    "VALUE": 21.521053441400245
+  },
+  {
+    "DW_NAME": "Kenya",
+    "VALUE": 21.08327802609606
+  },
+  {
+    "DW_NAME": "Papua New Guinea",
+    "VALUE": 20.968586897570457
+  },
+  {
+    "DW_NAME": "Haiti",
+    "VALUE": 20.483176814543604
+  },
+  {
+    "DW_NAME": "Djibouti",
+    "VALUE": 20.45702913975588
+  },
+  {
+    "DW_NAME": "Congo",
+    "VALUE": 19.415667058857853
+  },
+  {
+    "DW_NAME": "Angola",
+    "VALUE": 19.33476383432746
+  },
+  {
+    "DW_NAME": "Madagascar",
+    "VALUE": 18.55766009722136
+  },
+  {
+    "DW_NAME": "Zimbabwe",
+    "VALUE": 18.109427739716708
+  },
+  {
+    "DW_NAME": "Equatorial Guinea",
+    "VALUE": 17.890995842555082
+  },
+  {
+    "DW_NAME": "South Sudan",
+    "VALUE": 17.39883555108043
+  },
+  {
+    "DW_NAME": "Niger",
+    "VALUE": 17.32502122962115
+  },
+  {
+    "DW_NAME": "Democratic Republic of Congo",
+    "VALUE": 17.110809536498852
+  },
+  {
+    "DW_NAME": "Cote d'Ivoire",
+    "VALUE": 16.85200260316092
+  },
+  {
+    "DW_NAME": "Guinea",
+    "VALUE": 15.720951875232672
+  },
+  {
+    "DW_NAME": "Mali",
+    "VALUE": 14.589166673852809
+  },
+  {
+    "DW_NAME": "Benin",
+    "VALUE": 12.796928248173266
+  },
+  {
+    "DW_NAME": "Somalia",
+    "VALUE": 9.624684852949905
+  },
+  {
+    "DW_NAME": "Chad",
+    "VALUE": 8.242994891043091
+  },
+  {
+    "DW_NAME": "Nigeria",
+    "VALUE": 6.709054657415038
+  }
+]
