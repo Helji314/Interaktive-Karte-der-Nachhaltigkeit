@@ -1,6 +1,10 @@
 # Interaktive-Karte-der-Nachhaltigkeit
 Dies wird eine interaktive Karte der Welt, an der man die Nachhaltigkeit gezeigter Länder ablesen kann. Eine Datenbank verwendet Werte (hauptsächlich Our World In Data), die Berechnung der selbst entwickelten Formel findet live statt, so können aktuelle Werte leicht ergänzt werden. Mit einem Click auf das Land kann die Berechnung eingesehen werden.
 <br><br>
+# Setup
+1. Requirements installieren<br>
+2. In /data genannte Dateien unter beachtung der rechtlichen Voraussetzungen des Urhebers runterladen und in /data/raw speichern
+<br><br>
 # Zielsetzung
 Ein Projekt zur Visualisierung der globalen Nachhaltigkeitsleistungen anhand ausgewählter SDG-Indikatoren. 
 <br>
