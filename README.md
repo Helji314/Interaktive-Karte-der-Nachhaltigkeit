@@ -34,6 +34,9 @@ Somit ist für jede der drei Dimensionen der Nachhaltigkeit ein aktueller, damit
 Der gesammte Nachhaltigkeitsindex setzt sich folgendermaßen zusammen:<br>
 Nachhaltigkeitsindex = (Sozialer Wert + Ökologischer Wert + Ökonomischer Wert) / 3 <br>
 Einzelne Werte = (Wert A + Wert B)/ 2
+<br><br>
+Der jeweils größte und kleinste Wert werden vom Script automatisch erkannt. Aus den Daten aller Jahre der Länder wird die größte Zahl, als das aktuellste Jahr gewählt. <br>
+Je nach Thema werden den größten bzw. kleinsten Werten Zahlen zwischen 1 ("schlecht") und 100 ("gut") zugeordnet, alle dazwischen liegenden Werte werden damit ins Verhältnis gesetzt, die Ausgabe der gesammten Berechnung wird nach /data/processed verschoben. 
 <br><br><br>
 <h2>Technische Umsetung</h2>
 - Daten: Automatisierte Abfrage mithilfe einer Datenbank <br>
