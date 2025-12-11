@@ -16,6 +16,9 @@ build/
 .DS_Store
 Thumbs.db
 
+# html build
+/public/webpage/
+
 # Data (Raw files - users must download from OWID themselves)
 data/raw/*.csv
 
