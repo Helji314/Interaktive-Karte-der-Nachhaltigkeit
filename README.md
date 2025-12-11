@@ -47,5 +47,13 @@ Einzelne Werte = (Wert A + Wert B)/ 2
 Der jeweils größte und kleinste Wert jeder Einheit wird vom Python-Script automatisch erkannt. Aus den Daten aller Jahre der Länder wird aktuellste gewählt. <br>
 Je nach Thema wird die Einteilung zwischen 100 (optimal) und 1 (ungünstig) vorgenommen, das bedeutet, dass Werte wie der CO_2-Ausstoß möglichst klein und Werte wie das BIP groß sein sollten, um einen hohen Wert zu erhalten.<br> Alle dazwischen liegenden Werte werden damit ins Verhältnis gesetzt, die Ausgabe der gesammten Berechnung wird nach /data/processed verschoben, die Zwischenschritte können im log der Console verfolgt werden. 
 <br><br><br>
-# Ergebnisse 
-Bei korrekter Anwendung könnte der Überblick auf der Website wie folgt aussehen: 
+<h2>ErgebnissE</h2>
+Bei korrekter Anwendung könnte der Überblick auf der Website wie folgt aussehen: <br>
+<img width="1856" height="1006" alt="Screenshot 2025-12-11 at 14-29-52 Interaktive-Karte-der-Nachhaltigkeit" src="https://github.com/user-attachments/assets/34dad48a-35f8-4797-9ae4-0c5e67e59aa7" />
+Der Wert des angeclickten Lades wird neben diesem und im Vergleich zu den anderen Ländern in der Legende angezeigt. <br>
+Im Suchfeld eingegebene bzw. diesen sehr ähnelnde Ländernamen werden mit passenden Daten zur Berechnung dargestellt:
+<img width="1856" height="1006" alt="Screenshot 2025-12-11 at 14-30-41 Interaktive-Karte-der-Nachhaltigkeit" src="https://github.com/user-attachments/assets/8b47ff54-8018-4e16-a20a-b4657f681ef2" />
+Oben hinter einem Button sind die einzelnen Dimensionen (ökologisches, ökonimisches, soziales) verborgen und können zum Vergleich angezeigt werden: <br>
+<img width="1856" height="1006" alt="Screenshot 2025-12-11 at 14-33-01 Interaktive-Karte-der-Nachhaltigkeit" src="https://github.com/user-attachments/assets/e8a8a7cb-18e8-455e-9185-d291fc791932" />
+<br><br>
+Beispielcode, wie eine solche Seite aufgebaut sein könnte, kann auch in meinem Repository <a href="https://github.com/Helji314/sources?tab=readme-ov-file">sources</a> gefunden werden. 
