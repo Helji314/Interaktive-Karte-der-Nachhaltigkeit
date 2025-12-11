@@ -52,6 +52,20 @@ document.addEventListener('click', function(e)
 <div class="map"><br>
 <iframe title="Overall Sustainability" aria-label="Choropleth map" id="datawrapper-chart-2BOmu" src="https://datawrapper.dwcdn.net/2BOmu/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="370" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 </div>
+<div style="text-align:center; margin-top:20px;">
+    <input type="text" id="countrySearch" placeholder="Land eingeben..." style="padding:8px; width:200px; border:1px solid #ccc; border-radius:4px;">
+    <button onclick="searchCountry()" style="padding:8px 16px; background:#040f16; color:#f5f5f5; border:none; border-radius:4px; cursor:pointer;">Berechnung anzeigen</button>
+</div>
+<script>
+    function searchCountry() {
+        const input = document.getElementById('countrySearch').value.trim();
+        if (input) showCalculation(input);
+    }
+    
+    document.getElementById('countrySearch').addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') searchCountry();
+    });
+</script>
 <p style="font-size: small; text-align: center;">
   Map image <a href="https://app.datawrapper.de/rpyhtvmild/select/map" target="_blank">datawrapper.de</a>.
    Information provided by <a href="https://ourworldindata.org/" target="_blank">Our World in Data</a>.
