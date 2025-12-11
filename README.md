@@ -1,6 +1,9 @@
 # Interaktive-Karte-der-Nachhaltigkeit
 Dies wird eine interaktive Karte der Welt, an der man die Nachhaltigkeit gezeigter Länder ablesen kann. Eine Datenbank verwendet Werte (hauptsächlich Our World In Data), die Berechnung der selbst entwickelten Formel findet live statt, so können aktuelle Werte leicht ergänzt werden. Mit einem Click auf das Land kann die Berechnung eingesehen werden.
 <br><br>
+# Hinweis
+Dieses Projekt nutzt GitHub Copilot. Einige Code-Ausschnitte der Datei <a href="public/webpage/index.html">index.html<a> könnten Ähnlichkeiten mit bestehenden Open-Source-Projekten aufweisen. Die entsprechenden Matches sind in <a href="Code Citations.md">Code Citations.md<a> dokumentiert.
+<br><br>
 # Setup
 1. Requirements installieren<br>
 2. In /data genannte Dateien unter beachtung der rechtlichen Voraussetzungen des Urhebers runterladen und in /data/raw speichern
