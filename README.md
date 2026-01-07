@@ -45,7 +45,7 @@ Nachhaltigkeitsindex = (Sozialer Wert + Ökologischer Wert + Ökonomischer Wert)
 Einzelne Werte = (Wert A + Wert B)/ 2
 <br><br>
 Der jeweils größte und kleinste Wert jeder Einheit wird vom Python-Script automatisch erkannt. Aus den Daten aller Jahre der Länder wird aktuellste gewählt. <br>
-Je nach Thema wird die Einteilung zwischen 100 (optimal) und 1 (ungünstig) vorgenommen, das bedeutet, dass Werte wie der CO_2-Ausstoß möglichst klein und Werte wie das BIP groß sein sollten, um einen hohen Wert zu erhalten.<br> Alle dazwischen liegenden Werte werden damit ins Verhältnis gesetzt, die Ausgabe der gesammten Berechnung wird nach /data/processed verschoben, die Zwischenschritte können im log der Console verfolgt werden. 
+Je nach Thema wird die Einteilung zwischen 100 (optimal) und 1 (ungünstig) vorgenommen. Das bedeutet, dass Werte wie der CO_2-Ausstoß möglichst klein und Werte wie das BIP groß sein sollten, um einen hohen Wert zu erhalten. Das Script erkennt am Dateinamen dessen Klassifizierung und dreht die Berechnung automatisch um. <br> Alle dazwischen liegenden Werte werden damit ins Verhältnis gesetzt, die Ausgabe der gesammten Berechnung wird nach /data/processed verschoben, die Zwischenschritte können im log der Console verfolgt werden. 
 <br><br><br>
 <h2>ErgebnissE</h2>
 Bei korrekter Anwendung könnte der Überblick auf der Website wie folgt aussehen: <br>
