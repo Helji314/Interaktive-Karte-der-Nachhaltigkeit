@@ -14,7 +14,7 @@ Dieses Projekt verwendet in einzelnen Dokumenten vorschläge von GitHub Copilot.
 6. html-Dateien für Präsentation in public\webpage erstellen und Karten einbinden<br>
 7. Aus <a href="tools\fetch_data.py">fetch_data.py</a> entstehende calculations.json für die Erklärung verwenden (sie sollte in data\calculations.json gefunden werden können)
    <br><br>
-   Oder direkt <a href="helji314.github.io/interactive map/" target="blank" >meine GitHub Seite besuchen!</a>
+   Oder direkt <a href="helji314.github.io/interactive map/" target="blank" >meine GitHub Seite</a> besuchen!
 <br><br>
 # Zielsetzung
 Ein Projekt zur Visualisierung der globalen Nachhaltigkeitsleistungen anhand ausgewählter SDG-Indikatoren. 
