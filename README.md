@@ -3,7 +3,7 @@ Dies ist eine interaktive Karte, die die Nachhaltigkeit der Länder der Welt im 
 Dazu berechnet eine selbst entwickelte Formel einen Wert, der mit einem Click auf das Land eingesehen werden kann. Die Datengrundlage stammt in diesem Falle von Our World in Data und dessen Quellen, die Informationen zu verschiedenen Dimensionen als csv-Dateien anbieten. Ein Python-Script berechnet einzelne und Gesammtwerte, die den Färbunger der Karte und der JSON-Datenbank zur Beretstellung der Begründung als Basis dienen. 
 <br><br>
 # Hinweis
-Dieses Projekt nutzt GitHub Copilot. Einige Code-Ausschnitte der Datei <a href="public/webpage/index.html">index.html<a> könnten Ähnlichkeiten mit bestehenden Open-Source-Projekten aufweisen. Die entsprechenden Matches sind in <a href="Code Citations.md">Code Citations.md<a> dokumentiert.
+Dieses Projekt verwendet in einzelnen Dokumenten vorschläge von GitHub Copilot. Dadurch sind Ähnlichkeiten mit bestehenden Open Source Projekten nicht unmöglich. Sollten diese Ähnlichkeiten auffallen, freue ich mich über einen kurzen Hinweis!
 <br><br>
 # Setup zur Reproduktion
 1. <a href="data\licenses\DATA_SOURCES.md">csv-Dateien von Our World in Data und Quellen</a> unter Beachtung der rechtlichen Vorraussetzungen laden<br>
