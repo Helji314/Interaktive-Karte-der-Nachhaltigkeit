@@ -54,7 +54,7 @@ Normierter Wert = 1.0 + (Wert - kleinster Wert der Tabelle) / (Größter Wert de
 <br>
 Der erste Teil stellt sicher, dass 1 den kleinsten Wert darstellt. <br>
 Das folgende Dividieren sorgt dafür, dass die Werte zunächst zwischen 0 und 1 liegen und vergleichbar sind. <br>
-Durch das Multiplizieren mit 99.0 wird die Skala entstaucht, sodass die Werte intuitiver uhnd einfacher vorzustellen sind. 
+Durch das Multiplizieren mit 99.0 wird die Skala entstaucht, sodass die Werte intuitiver, einfacher vorzustellen sind. 
 <br><br><br>
 <h2>Ergebnisse</h2>
 Bei korrekter Anwendung könnte der Überblick auf der Website wie folgt aussehen: <br>
