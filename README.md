@@ -12,7 +12,9 @@ Dieses Projekt verwendet in einzelnen Dokumenten vorschläge von GitHub Copilot.
 4. <a href="tools\processed_data.py">processed_data.py</a>, <a href="tools\export_data.py">export_data.py</a> und <a href="tools\fetch_data.py">fetch_data.py</a> ausführen<br>
 5. Daten aus data\processed\sustainability_index.csv oder direkt csvs aus public\data nutzen, um Karten zu erstellen<br>
 6. html-Dateien für Präsentation in public\webpage erstellen und Karten einbinden<br>
-7. Aus <a href="tools\fetch_data.py">fetch_data.py</a> entstehende calculations.json für die Erklärung verwenden (sie sollte in data\calculations.json gefunden werden)
+7. Aus <a href="tools\fetch_data.py">fetch_data.py</a> entstehende calculations.json für die Erklärung verwenden (sie sollte in data\calculations.json gefunden werden können)
+   <br><br>
+   Oder direkt <a href="helji314.github.io/interactive map/" target="blank" >meine GitHub Seite besuchen!</a>
 <br><br>
 # Zielsetzung
 Ein Projekt zur Visualisierung der globalen Nachhaltigkeitsleistungen anhand ausgewählter SDG-Indikatoren. 
